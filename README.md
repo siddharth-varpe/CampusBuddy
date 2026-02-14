@@ -56,7 +56,6 @@ It’s a simple system where **students get help without fear, and teachers get 
 
 -**Relevant Answering:**
 
-
 **If information exists** → AI answers directly from the college database.
 **If missing** → AI won’t give random answers; instead, → AI will divert the question to the **“SyncSpot”**.
 
