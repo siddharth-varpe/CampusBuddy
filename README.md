@@ -15,7 +15,7 @@ At the same time, **teachers get tired of repeating the same answers**. They spe
 This creates a frustrating loop where students don't get the instant help they need, and teachers waste precious time.
 
 ## Proposed Solution:
-**CampusBuddy**, an AI assistant that acts as a friendly and smart guide for every student.
+**CampusBuddy**, an AI assistant that acts as a friendly and smart guide for every student..
 1. **For Students: Ask Anything, Anonymously.** Students can ask CampusBuddy any question, anytime, from their phone or computer. No more worrying about a "silly question" – they get instant, reliable answers right when they need them.
 2. **For Teachers: Answer Once, and You're Done**. Teachers get a portal where they build the AI's "brain" by adding answers to common questions and uploading college related documents. They only have to answer a question **once**. From then on, CampusBuddy handles it for every student, freeing up the teacher to focus on actual teaching.
 **Peer-to-peer connect (SyncSpot)**: If a student asks a new question the AI doesn't know, it directs that question to the **“SyncSpot”** without revealing his identity. Questions will be displayed to everyone, one who knows the answer can reply, and the AI instantly learns that new answer, ready for the next student who asks.
