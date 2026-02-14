@@ -2,6 +2,8 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-CampusBuddy-blue?logo=github)](https://github.com/siddharthvarpe086/college-student-buddy)
 
 link: https://campus-buddy-student-helpdesk.vercel.app/
+
+
 ## Overview
 
 CampusBuddy is an AI-powered campus assistance platform built to bridge the gap between faculty and students. It allows faculty members to securely upload and manage official college data while providing students with an intelligent chatbot that only answers questions strictly based on the verified college database.
