@@ -240,3 +240,5 @@ We would like to express our sincere gratitude to our mentors, faculty members, 
 We also thank our faculty advisors for providing insightful feedback during the development process, which helped us refine our project. Special thanks to the hackathon organizing team for creating an engaging platform to showcase innovation and teamwork.
 
 Finally, we would like to acknowledge the collaborative effort of our team members. Each individual’s contribution in ideation, development, AI integration, and documentation made **CampusBuddy** a reality.
+
+applying commits
