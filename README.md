@@ -3,7 +3,7 @@
 
 link: https://campus-buddy-student-helpdesk.vercel.app/
 
-## Overview
+## Overview:
 CampusBuddy is an AI-powered campus assistance platform built to bridge the gap between faculty and students. It allows faculty members to securely upload and manage official college data while providing students with an intelligent chatbot that only answers questions strictly based on the verified college database.
 This ensures **reliable, college-specific, and non-random responses**, helping freshers and regular students quickly finddetails about faculty, events, timetables, and campus resources.
 
